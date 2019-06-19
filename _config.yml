@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amar Sahota"
+title                    : "Laleh Parsa"
 title_separator          : "-"
-name                     : "Amar Sahota"
+name                     : "Laleh Parsa"
 description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Amar Sahota"
-  avatar           : "/images/Author-Favicon.png"
+  avatar           : "/images/image.jpg"
   bio              : ""
   location         : "Toronto"
-  email            :
+  email            : "laleh.zandparsa@mail.mcgill.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:amar.sahota271@gmail.com
+      url: mailto:laleh.zandparsa@mail.mcgill.ca
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,7 +129,7 @@ author:
       url: "https://github.com/amarsahota/"
     - label: "Linked-In"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/amar-sahota-104736bb/"
+      url: "https://www.linkedin.com/in/laleh-parsa-1572bb164/"
 
 # Site Footer
 footer:
